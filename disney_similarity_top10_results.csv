@@ -1,0 +1,31 @@
+query_title,title,similarity,type,listed_in,rating,release_year
+Frozen,Coco,0.838852124479376,Movie,"Animation, Family, Fantasy",PG,2017
+Frozen,Coco (in Spanish),0.838852124479376,Movie,"Animation, Family, Fantasy",PG,2017
+Frozen,Float,0.8373113649106129,Movie,"Animation, Family, Fantasy",PG,2019
+Frozen,Out,0.8361823932218143,Movie,"Animation, Family, Fantasy",PG,2020
+Frozen,Tim Burton’s The Nightmare Before Christmas,0.7715062813996907,Movie,"Animation, Family, Fantasy",PG,1993
+Frozen,Frozen Fever,0.7423998648816142,Movie,"Animation, Family, Fantasy",G,2015
+Frozen,Loop,0.738138096033113,Movie,"Animation, Family",PG,2020
+Frozen,Twenty Something,0.7368757607538319,Movie,"Animation, Family",PG,2021
+Frozen,Disney's A Christmas Carol,0.7347541228664859,Movie,"Animation, Fantasy",PG,2009
+Frozen,Frozen 2,0.716950368558875,Movie,"Action-Adventure, Animation, Family",PG,2019
+Marvel Studios' The Avengers,Marvel Studios' Thor: The Dark World,0.8381765596300107,Movie,"Action-Adventure, Fantasy, Science Fiction",PG-13,2013
+Marvel Studios' The Avengers,Marvel Studios' Avengers: Infinity War,0.8359334643548084,Movie,"Action-Adventure, Fantasy, Science Fiction",PG-13,2018
+Marvel Studios' The Avengers,Marvel Studios' Avengers: Endgame,0.8347324907487436,Movie,"Action-Adventure, Fantasy, Science Fiction",PG-13,2019
+Marvel Studios' The Avengers,Star Wars: The Last Jedi (Episode VIII),0.7717835324453298,Movie,"Action-Adventure, Science Fiction",PG-13,2017
+Marvel Studios' The Avengers,Rogue One: A Star Wars Story,0.7651806667022057,Movie,"Action-Adventure, Science Fiction",PG-13,2016
+Marvel Studios' The Avengers,Star Wars: The Force Awakens (Episode VII),0.7387743775143394,Movie,"Action-Adventure, Science Fiction",PG-13,2015
+Marvel Studios' The Avengers,Pirates of the Caribbean: Dead Men Tell No Tales,0.73781039181328,Movie,"Action-Adventure, Fantasy",PG-13,2017
+Marvel Studios' The Avengers,Pirates of the Caribbean: On Stranger Tides,0.7373631822005056,Movie,"Action-Adventure, Fantasy",PG-13,2011
+Marvel Studios' The Avengers,Prince of Persia: The Sands of Time,0.7362762024400301,Movie,"Action-Adventure, Fantasy",PG-13,2010
+Marvel Studios' The Avengers,Avatar,0.7348858885074334,Movie,"Action-Adventure, Science Fiction",PG-13,2009
+The Mandalorian,Race to the Center of the Earth,0.6964106123168351,TV Show,"Action-Adventure, Family, Game Show / Competition",TV-14,2021
+The Mandalorian,Loki,0.6964106123168351,TV Show,"Action-Adventure, Fantasy, Science Fiction",TV-14,2021
+The Mandalorian,The Falcon and The Winter Soldier,0.6964106123168351,TV Show,"Action-Adventure, Buddy, Science Fiction",TV-14,2021
+The Mandalorian,Cosmos: Possible Worlds,0.6951723953501338,TV Show,"Action-Adventure, Docuseries, Family",TV-14,2020
+The Mandalorian,Marvel's Inhumans,0.6901469045606258,TV Show,"Action-Adventure, Science Fiction, Superhero",TV-14,2017
+The Mandalorian,Marvel's Agent Carter,0.6830578785705672,TV Show,"Action-Adventure, Science Fiction, Spy/Espionage",TV-14,2014
+The Mandalorian,The Bad Batch,0.6130978479850248,TV Show,"Action-Adventure, Animation, Science Fiction",TV-PG,2021
+The Mandalorian,Hawkeye,0.5909933789162606,TV Show,"Action-Adventure, Superhero",TV-14,2021
+The Mandalorian,The Mysterious Benedict Society,0.5909933789162606,TV Show,"Action-Adventure, Family",TV-PG,2021
+The Mandalorian,Star Wars: The Clone Wars,0.5454738608335645,TV Show,"Action-Adventure, Animation, Science Fiction",TV-PG,2008
